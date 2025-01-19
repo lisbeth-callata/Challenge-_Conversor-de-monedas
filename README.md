@@ -64,22 +64,6 @@ El sistema nos da a elegir entre distintas unidades de conversión, y al dar cli
 
 ---
 
-## **Interfaz**
-
-El menú que se despliega de forma inicial es el siguiente:
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/505c836d-bf9f-4608-b76a-951ab4562040" alt="Imagen" />
-</p>
-
-El sistema nos da a elegir entre distintas unidades de conversión, y al dar click en "Convertir", nos muestra la conversión realizada y el tipo de cambio.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7775dfc6-139a-4d8e-aca4-e7379d7e17d2" alt="Imagen" />
-</p>
-
----
-
 ## **Insignia del Proyecto**
 
 Insignia recibida por haber completado el Challenge.
