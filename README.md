@@ -9,6 +9,7 @@
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Consumo de la API](#consumo-de-la-api)
 - [Interfaz](#interfaz)
+- [Insignia del Proyecto](#insignia-del-proyecto)
 - [Contacto](#contacto)
 
 ---
@@ -55,6 +56,27 @@ El menú que se despliega de forma inicial es el siguiente:
 
 El sistema nos da a elegir entre distintas unidades de conversión, y al dar click en "Convertir", nos muestra la conversión realizada y el tipo de cambio.
 ![Image](https://github.com/user-attachments/assets/7775dfc6-139a-4d8e-aca4-e7379d7e17d2)
+
+---
+
+## **Interfaz**
+
+El menú que se despliega de forma inicial es el siguiente:
+
+![Image](https://github.com/user-attachments/assets/505c836d-bf9f-4608-b76a-951ab4562040)
+
+El sistema nos da a elegir entre distintas unidades de conversión, y al dar click en "Convertir", nos muestra la conversión realizada y el tipo de cambio.
+![Image](https://github.com/user-attachments/assets/7775dfc6-139a-4d8e-aca4-e7379d7e17d2)
+
+---
+
+## **Insignia del Proyecto**
+
+Insignia recibida por haber completado el Challenge.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/13b12a84-df2a-4c51-ba38-5f09641fc911" alt="Imagen" />
+</p>
 
 ---
 
